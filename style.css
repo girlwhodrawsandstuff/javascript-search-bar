@@ -1,0 +1,38 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body {
+    padding: 50px;
+}
+
+.search-wrapper {
+    font-size: 3rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.search-input {
+    padding: 10px;
+    font-size: 24px;
+}
+
+.user-cards {
+    padding: 50px 0px;
+}
+
+.card {
+    padding: 20px;
+    border: 1px dotted #a3a3a3;
+}
+
+.header {
+    font-size: 24px;
+    padding: 10px;
+}
+
+.body {
+    padding: 10px;
+}
